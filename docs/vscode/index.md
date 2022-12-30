@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VSCode
+title: vscode
 nav_order: 2
 has_children: true
 ---
