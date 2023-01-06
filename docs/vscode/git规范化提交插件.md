@@ -3,12 +3,10 @@ layout: default
 title: git规范化提交插件
 parent: vscode
 ---
-
-# [git规范化提交插件](https://github.com/UvDream/git-commit-lint-vscode)
-
-## 效果
-|类型|emji|描述|
-|:---:|:---:|:---:|
+----
+## [git-commit-lint-vscode](https://github.com/UvDream/git-commit-lint-vscode)
+|类型|emji|描述| 
+|:---:|:---:|:---:| 
 |feat|✨|引入新功能|
 |fix|🐛|修复bug|
 |style|💄|更新UI样式文按键|
